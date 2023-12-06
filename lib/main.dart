@@ -59,7 +59,7 @@ class _QuizPageState extends State<QuizPage> {
         "Ministry of Finance",
         "State Bank of India (SBI)"
       ],
-      "answer": " Nationa Payments Corporation of India (NPCI)",
+      "answer": " National Payments Corporation of India (NPCI)",
     },
     {
       "question": "India's first UPI-ATM was launched by?",
